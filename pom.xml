@@ -12,6 +12,7 @@
     <modules>
         <module>smart-admin-common-http</module>
         <module>smart-admin-common-log</module>
+        <module>smart-admin-common-json</module>
     </modules>
 
     <build>
